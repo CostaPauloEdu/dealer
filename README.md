@@ -1,7 +1,7 @@
 # DEALER
 Projeto de criação de um site usando Kubernetes para participação do processo seletivo de admissão na DealerSites
 
-# COMO INSTALAR
+## COMO INSTALAR
 Importe o repositório GIT através do comando:
     
     git clone https://github.com/CostaPauloEdu/dealer.git
